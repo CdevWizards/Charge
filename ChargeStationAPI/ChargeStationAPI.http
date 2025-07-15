@@ -1,6 +1,0 @@
-@ChargeStationAPI_HostAddress = http://localhost:5293
-
-GET {{ChargeStationAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
