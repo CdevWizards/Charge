@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ChargeStationApp.Domain\ChargeStationApp.Domain.csproj" />
+    <PackageReference Include="MediatR" Version="12.5.0" />
+        <PackageReference Include="AutoMapper" Version="12.0.1" />
   </ItemGroup>
 
   <PropertyGroup>
